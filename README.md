@@ -15,3 +15,4 @@ Link to my Portfolio: [My GitHub Porfolio Page - Tracy Oakley](https://github.co
 I am a Navy Veteran, and I have always been interested in creating software. Right now, I am in Florida, and I enjoy playing Soccer on the weekend.  
 
 This is a simple note to let you know that markdown doesn't have any kind of autocorect feature. :+1:
+<!-- So I have learned that the website does not format the emoji correctly -->

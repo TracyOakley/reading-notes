@@ -1,4 +1,8 @@
-Git Tutorial : https://blog.udemy.com/git-tutorial-a-comprehensive-guide/
+# Class 3 Notes - How to use Git and GitHub
+
+[Back to Home](../README.md)
+
+Awesome Resource: [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 To explain Git, we have to first explain various aspects of Version Control.
 
@@ -116,8 +120,4 @@ You stage the modified file.
 Then, you commit staged changes.
 
 And so much more... go to the link at the top of the page.
-
-
-
-
 

@@ -9,3 +9,4 @@ I am a Navy Veteran, and I have always been interested in creating software. Rig
 
 * [Class 1 Notes](102/class1notes.md)
 * [Class 2 Notes](102/class2notes.md)
+* [Class 3 Notes](102/class3notes.md)

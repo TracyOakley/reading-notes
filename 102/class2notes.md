@@ -1,4 +1,6 @@
-# Choosing a Text Editor - Pick the one you like the best.
+# Class 2 Notes - Choosing a Text Editor: Pick the one you like the best.
+
+[Back to Home](../README.md)
 
 ## Text Editor - where you write and manage text especially for a website.
 

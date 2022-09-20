@@ -18,7 +18,7 @@ Space is very important in mark down. If you dont space after the '#' then you w
 
 '* or - or +' with a space will give you an unordered list
 
-[text for link](the address of the link)
-![text for image](address to the image)
+'[text for link](the address of the link)'
+'![text for image](address to the image)'
 
 There is more but use a cheatsheet if you need something in particular.

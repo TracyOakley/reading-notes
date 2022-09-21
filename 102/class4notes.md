@@ -4,25 +4,27 @@
 
 ## Wireframe
 
-low fidelity sketch of a website
-wireframes for each screen and how they navigate
-2 types - hand drawn or digital (wireframe.cc)
-keep it simple
-refine 2nd time if you need so it fits better
-use big x in box for picture
++ Low fidelity sketch of a website
++ Wireframes for each screen and how they navigate
++ 2 types - hand drawn or digital (wireframe.cc)
++ Keep it simple
++ Refine 2nd time if you need so it fits better
++ Use big x in box for picture
 
 Steps for wire frame
-+ research
-+ prepare
-+ Map out user flow
-+ draft don't draw, sketch dont illustrate
-+ Add detail and get testing and redraw if necessary
-+ turn wireframe into prototype
 
-key principle
-Maintain clarity
-Gain user confidence
-Simplicity is key
+1. research
+2. prepare
+3. Map out user flow
+4. draft don't draw, sketch dont illustrate
+5. Add detail and get testing and redraw if necessary
+6. turn wireframe into prototype
+
+Key principles
+
++ Maintain clarity
++ Gain user confidence
++ Simplicity is key
 
 ## HTML Basics
 
@@ -48,12 +50,10 @@ Use ! EMMET to save time and memory
 
 Semantics refers to meaning like what effect does running that line of code have? or what is the purpose rather that what does it look like.
 
-#### In JavaScript, consider a function that takes a string parameter, and returns an <li> element with that string as its textContent. Would you need to look at the code to understand what the function did if it was called build('Peach'), or createLiWithContent('Peach')?
+#### In JavaScript, consider a function that takes a string parameter, and returns an 'li'element with that string as its textContent. Would you need to look at the code to understand what the function did if it was called build('Peach'), or createLiWithContent('Peach')?
 
-there are roughly 100 semantic elements
+There are roughly 100 semantic elements
 
-More info
-[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+More info  
+[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 [HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-
-

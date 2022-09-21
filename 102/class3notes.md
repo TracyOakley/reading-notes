@@ -6,16 +6,20 @@ Awesome Resource: [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehen
 
 To explain Git, we have to first explain various aspects of Version Control.
 
-Distributed Version Control System overcomes the lack of cooperation with local version control
-and single point of failure with centralized Version Control.
+Distributed Version Control System
 
-Git is a DVCS that stores data in a file system made up of snapshots. Each time you save it is a "Commit."
++ Overcomes the lack of cooperation with local version control
++ single point of failure with centralized Version Control.
+
+Git is a DVCS that stores data in a file system made up of snapshots.  
+ Each time you save it is a "Commit."  
+
 commit — Git creates a snapshot of the file and stores a reference to it. If the file has not changed, 
 Git only stores a reference to the already-stored identical version of it.
 
 Local Operations
-Git mostly relies on local operations because most necessary information can be found in local resources. 
-This allows for process expediency because a project’s history resides on the local disk, eliminating
++ Git mostly relies on local operations because most necessary information can be found in local resources. 
++ This allows for process expediency because a project’s history resides on the local disk, eliminating
 the need to fetch history information from the server, and allowing one to continue work on a project even when not online or on a VPN.
 
 Tracking Changes
@@ -28,36 +32,42 @@ Committed- Data is securely stored in a local database
 Modified -File has been changed but not committed to the database
 Staged -Flagged a file’s changed version to be committed in the next snapshot
 
-Linus Torvalds - Linux and Git - he is awesome. Git is the best.
+**Linus Torvalds** - Linux and Git - he is awesome. Git is the best.
 
 
 Initial Customization
 
 After making sure Git has been installed, you should perform some customization steps, which should only need to be completed once on any
-machine. To change settings, you can repeat these steps.
-  Configuration of Variables
-An inherent Git tool called git config allows the setting of configuration variables that control aspects of Git’s operation and look.
-  Identity Setting
-After installing Git, users should immediately set the user name and email address, which will be used for every Git commit.
-  Type the following into Terminal or Command Line:
-git config --global user.name "Jane Smith"
-git config --global user.email "example@email.com"
-  To confirm that you have the correct settings, enter the following command:
-git config --global user.name (should return Jane Smith)
+machine. To change settings, you can repeat these steps. 
+
+Configuration of Variables  
+An inherent Git tool called git config allows the setting of configuration variables that control aspects of Git’s operation and look. 
+
+  Identity Setting  
+After installing Git, users should immediately set the user name and email address, which will be used for every Git commit.  
+
+  Type the following into Terminal or Command Line:  
+
+git config --global user.name "Jane Smith"  
+git config --global user.email "example@email.com"  
+
+  To confirm that you have the correct settings, enter the following command:  
+git config --global user.name (should return Jane Smith)  
 git config --global user.email (should return example@email.com)
 
-  *By using the –global option, these Git settings apply to anything on the system. To use different identity settings for 
+  *By using the –global option, these Git settings apply to anything on the system. To use different identity settings for
 a specific project, change the working directory to the desired local Git repository and repeat the steps above without using –global.
 
-  Default Text Editor
+  Default Text Editor  
+
 Without configuration of a default text editor, Git will use the system’s default editor–most likely Vim.
 To configure a different text editor, such as Emacs, type the following into your Terminal or Command Line:
 $ git config --global core.editor emacs
 
-  Check Settings
+  Check Settings  
 To check settings, use the git config --list command.
 
-  Getting Help
+  Getting Help  
 There are three ways to get more information on a particular command, by accessing the manual:
 git help command
 git command --help
@@ -65,16 +75,17 @@ man git-command
 
 
 
-                          Setting up a Git Repository
+### Setting up a Git Repository
   Importing
 To import an existing project or directory into Git, follow these steps using the Terminal or Command Line:
 
 Switch to the target project’s directory
 Example:
 
-$ cd test (cd = change directory)
+'$ cd test (cd = change directory)'  
+
 Use the git init command
-$ git init
+'$ git init'
 Note: At this stage, you have created a new subdirectory named .git that has the repository files. Tracking has not commenced.
 
 To start tracking these repository files, perform an initial commit by typing the following:

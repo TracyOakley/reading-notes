@@ -3,6 +3,9 @@
 [Back to Home](../README.md)
 
 [CSS - What it is](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
+[CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)  
+
+[Myers Web Reset Stylesheet](https://meyerweb.com/eric/tools/css/reset/)  
 
 CSS (Cascading Style Sheets) allows you to create great-looking web pages.  
 

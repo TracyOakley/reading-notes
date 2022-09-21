@@ -44,4 +44,42 @@ Inline styles are defined within the "style" attribute of the relevant element
 
 h1 style="color:blue;text-align:center;"
 
-## [CSS Color Property](https://www.w3schools.com/cssref/pr_text_color.asp)
+## [CSS Color Property](https://www.w3schools.com/cssref/pr_text_color.asp)  
+
+body {
+  color: red;
+}  
+
+h1 {
+  color: #00ff00;
+}
+
+p.ex {
+  color: rgb(0,0,255);
+}  
+
+## Types of Selectors
+
++ Type is the basic selector
++ Class is the .box example
++ ID Selector #unique { }
++ Attribute Selectors a[title]{}
++ pseudo-classes a:hover{} to style different state of element
+
+## [Box model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
+
+2 types of boxes
++ **Block Boxes**
++ **Inline Boxes**
+
+Boxes have an inner display and an outer display type.
+
+### Outer Display type
+
+if outer diplay is type block then the box will break onto a new line
+width and height are respected  
+box will extend in the inline direction becoming as wide as its container
+
+if outer display has a type of inline then the box will not break onto a new line
+
+

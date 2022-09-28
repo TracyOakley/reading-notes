@@ -1,7 +1,6 @@
-#First 201 Class
-
-## Class 1 Notes - 
+# Class 1 Notes - "What Class 1 is about"
 
 [Back to Home](../README.md)
 
-* Stuff
+* Links
+

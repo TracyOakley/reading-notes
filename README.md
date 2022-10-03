@@ -2,6 +2,8 @@
 
 ## Table of Contents
 
+## [Things I want to know more about](ThingsIwanttoknowmoreabout.md)
+
 #### Course 201
 
 * [Class 1 Notes - "Getting Started with Web Development"](201/class-01.md)

@@ -7,8 +7,8 @@
 #### Course 201
 
 * [Class 1 Notes - "Getting Started with Web Development"](201/class-01.md)
-* [Class 2 Notes - ](201/class-02.md)
-* [Class 3 Notes - ](201/class-03.md)
+* [Class 2 Notes - Basics of HTML, CSS and JS](201/class-02.md)
+* [Class 3 Notes - HTML Lists, JS Control Flow and CSS Box Model](201/class-03.md)
 * [Class 4 Notes - ](201/class-04.md)
 * [Class 5 Notes - ](201/class-05.md)
 * [Class 6 Notes - ](201/class-06.md)

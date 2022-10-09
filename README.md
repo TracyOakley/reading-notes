@@ -11,7 +11,7 @@
 * [Class 3 Notes - HTML Lists, JS Control Flow and CSS Box Model](201/class-03.md)
 * [Class 4 Notes - HTMl Links, JS Functions, CSS Layout Intro ](201/class-04.md)
 * [Class 5 Notes - HTML Images and CSS Color ](201/class-05.md)
-* [Class 6 Notes - ](201/class-06.md)
+* [Class 6 Notes - Problem Domain, Objects, and the DOM](201/class-06.md)
 * [Class 7 Notes - ](201/class-07.md)
 * [Class 8 Notes - ](201/class-08.md)
 * [Class 9 Notes - ](201/class-09.md)

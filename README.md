@@ -14,7 +14,7 @@
 * [Class 6 Notes - Problem Domain, Objects, and the DOM](201/class-06.md)
 * [Class 7 Notes - Object-Oriented Programming, HTML Tables](201/class-07.md)
 * [Class 8 Notes - CSS Layout Flexbox](201/class-08.md)
-* [Class 9 Notes - ](201/class-09.md)
+* [Class 9 Notes - HTML Forms and JS Events](201/class-09.md)
 * [Class 10 Notes - ](201/class-10.md)
 * [Class 11 Notes - ](201/class-11.md)
 * [Class 12 Notes - ](201/class-12.md)

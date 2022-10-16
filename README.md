@@ -16,7 +16,7 @@
 * [Class 8 Notes - CSS Layout Flexbox](201/class-08.md)
 * [Class 9 Notes - HTML Forms and JS Events](201/class-09.md)
 * [Class 10 Notes - Debugging](201/class-10.md)
-* [Class 11 Notes - ](201/class-11.md)
+* [Class 11 Notes - Audio, Video, Images](201/class-11.md)
 * [Class 12 Notes - ](201/class-12.md)
 * [Class 13 Notes - ](201/class-13.md)
 * [Class 14 Notes - ](201/class-14.md)

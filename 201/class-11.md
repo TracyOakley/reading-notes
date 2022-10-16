@@ -18,7 +18,7 @@
 
 3) Why is it important to have fallback content inside the `<video>` element?
 
-+ this will be displayed if the browser accessing the page doesn't support the <video> element, allowing us to provide a fallback for older browsers. This can be anything you like; in this case, we've provided a direct link to the video file, so the user can at least access it some way regardless of what browser they are using.
++ this will be displayed if the browser accessing the page doesn't support the `<video>` element, allowing us to provide a fallback for older browsers. This can be anything you like; in this case, we've provided a direct link to the video file, so the user can at least access it some way regardless of what browser they are using.
 
 4) Write a very short story where `<audio>` and `<video>` are characters.
 

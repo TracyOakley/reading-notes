@@ -18,7 +18,7 @@
 * [Class 10 Notes - Debugging](201/class-10.md)
 * [Class 11 Notes - Audio, Video, Images](201/class-11.md)
 * [Class 12 Notes - JS Canvas and Chart.js](201/class-12.md)
-* [Class 13 Notes - ](201/class-13.md)
+* [Class 13 Notes - Local Storage and its Future in Web Apps](201/class-13.md)
 * [Class 14 Notes - ](201/class-14.md)
 * [Class 15 Notes - ](201/class-15.md)
 

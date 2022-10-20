@@ -2,7 +2,7 @@
 
 [Back to Home](../README.md)
 
-#### Bookmarks - []
+#### Bookmarks - [Pure CSS Bounce Animation](https://codepen.io/dp_lewis/pen/QWMxRR) [6 Buttons Animated](https://codepen.io/retyui/pen/ByoaXV) [CSS3 Keyframe Animations](https://codepen.io/akshaychauhan/pen/dyBqVo) [404 animated](https://codepen.io/kieranfivestars/pen/MYdQxX)
 
 ## [CSS Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
 

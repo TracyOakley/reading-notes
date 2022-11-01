@@ -4,7 +4,27 @@
 
 ## [Things I want to know more about](ThingsIwanttoknowmoreabout.md)
 
-#### Course 201
+#### Course 401 - Advanced Software Development
+
+#### Course 301 - Intermediate Software Development
+
+* [Class 1 Notes - ](301/class1notes.md)
+* [Class 2 Notes - ](301/class2notes.md)
+* [Class 3 Notes - ](301/class3notes.md)
+* [Class 4 Notes - ](301/class4notes.md)
+* [Class 5 Notes - ](301/class5notes.md)
+* [Class 6 Notes - ](301/class6notes.md)
+* [Class 7 Notes - ](301/class7notes.md)
+* [Class 8 Notes - ](301/class8notes.md)
+* [Class 9 Notes - ](301/class9notes.md)
+* [Class 10 Notes - ](301/class10notes.md)
+* [Class 11 Notes - ](301/class11notes.md)
+* [Class 12 Notes - ](301/class12notes.md)
+* [Class 13 Notes - ](301/class13notes.md)
+* [Class 14 Notes - ](301/class14notes.md)
+* [Class 15 Notes - ](301/class14notes.md)
+
+#### Course 201 - Foundations of Software Development
 
 * [Class 1 Notes - "Getting Started with Web Development"](201/class-01.md)
 * [Class 2 Notes - Basics of HTML, CSS and JS](201/class-02.md)
@@ -23,7 +43,7 @@
 * [Class 15 Notes - ](201/class-15.md)
 * [Google - Perfect Teams](201/Google-PerfectTeams.md)
 
-#### Course 102
+#### Course 102 - Intro to Software Development
 
 * [Class 1 Notes - Learning Markdown](102/class1notes.md)
 * [Class 2 Notes - Text Editor](102/class2notes.md)

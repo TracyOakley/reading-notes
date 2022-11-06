@@ -8,7 +8,7 @@
 
 #### Course 301 - Intermediate Software Development
 
-* [Class 1 Notes - ](301/class1notes.md)
+* [Class 1 Notes - Intro to React and Components](301/class1notes.md)
 * [Class 2 Notes - ](301/class2notes.md)
 * [Class 3 Notes - ](301/class3notes.md)
 * [Class 4 Notes - ](301/class4notes.md)

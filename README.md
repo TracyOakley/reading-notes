@@ -12,7 +12,7 @@
 * [Class 2 Notes - State and Props](301/class-02.md)
 * [Class 3 Notes - Passing Functions as Props](301/class-03.md)
 * [Class 4 Notes - React and Forms](301/class-04.md)
-* [Class 5 Notes - ](301/class-05.md)
+* [Class 5 Notes - Thinking in React](301/class-05.md)
 * [Class 6 Notes - ](301/class-06.md)
 * [Class 7 Notes - ](301/class-07.md)
 * [Class 8 Notes - ](301/class-08.md)

@@ -20,7 +20,7 @@
 * [Class 10 Notes - In Memory Storage](301/class-10.md)
 * [Class 11 Notes - MongoDB and Mongoose](301/class-11.md)
 * [Class 12 Notes - CRUD](301/class-12.md)
-* [Class 13 Notes - ](301/class-13.md)
+* [Class 13 Notes - More CRUD](301/class-13.md)
 * [Class 14 Notes - ](301/class-14.md)
 * [Class 15 Notes - ](301/class-15.md)
 

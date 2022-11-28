@@ -21,7 +21,7 @@
 * [Class 11 Notes - MongoDB and Mongoose](301/class-11.md)
 * [Class 12 Notes - CRUD](301/class-12.md)
 * [Class 13 Notes - More CRUD](301/class-13.md)
-* [Class 14 Notes - ](301/class-14.md)
+* [Class 14 Notes - Diversity & Inclusion in the Tech Industry](301/class-14.md)
 * [Class 15 Notes - ](301/class-15.md)
 
 #### Course 201 - Foundations of Software Development

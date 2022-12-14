@@ -6,6 +6,10 @@
 
 #### Course 401 - Advanced Software Development
 
+* [Class 1 Notes - ](401/class-01.md)
+* [Class 2 Notes - ](401/class-02.md)
+* [Class 3 Notes - ](401/class-03.md)
+
 #### Course 301 - Intermediate Software Development
 
 * [Class 1 Notes - Intro to React and Components](301/class-01.md)

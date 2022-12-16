@@ -4,6 +4,7 @@
 
 ## [Things I want to know more about](ThingsIwanttoknowmoreabout.md)
 ## [SQL Practice](./SQLPractice.md)
+## [Practice in the Terminal](./TerminalPractice.md)
 
 #### Course 401 - Advanced Software Development
 

@@ -3,7 +3,7 @@
 ## Table of Contents
 
 ## [Things I want to know more about](ThingsIwanttoknowmoreabout.md)
-## [SQL Practice](./SQLPractice)
+## [SQL Practice](./SQLPractice.md)
 
 #### Course 401 - Advanced Software Development
 

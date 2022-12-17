@@ -2,9 +2,10 @@
 
 ## Table of Contents
 
-## [Things I want to know more about](ThingsIwanttoknowmoreabout.md)
-## [SQL Practice](./SQLPractice.md)
-## [Practice in the Terminal](./TerminalPractice.md)
+### [Things I want to know more about](ThingsIwanttoknowmoreabout.md)
+### [SQL Practice](./SQLPractice.md)
+### [Practice in the Terminal](./TerminalPractice.md)
+### [The Growth Mindset](./GrowthMindset.md)
 
 #### Course 401 - Advanced Software Development
 

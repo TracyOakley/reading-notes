@@ -6,6 +6,7 @@
 ### [SQL Practice](./SQLPractice.md)
 ### [Practice in the Terminal](./TerminalPractice.md)
 ### [The Growth Mindset](./GrowthMindset.md)
+### [Data Structures and Algorithms](./DataStructureandAlgos.md)
 
 #### Course 401 - Advanced Software Development
 

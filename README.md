@@ -12,7 +12,7 @@
 #### Course 401 - Advanced Software Development
 
 * [Class 1 Notes - Intro to Big O Notation and Python](401/class-01.md)
-* [Class 2 Notes - ](401/class-02.md)
+* [Class 2 Notes - Testing and Modules](401/class-02.md)
 * [Class 3 Notes - ](401/class-03.md)
 
 #### Course 301 - Intermediate Software Development

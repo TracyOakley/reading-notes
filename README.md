@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-### [Things I want to know more about](ThingsIwanttoknowmoreabout.md)
+
 ### [SQL Practice](./SQLPractice.md)
 ### [Practice in the Terminal](./TerminalPractice.md)
 ### [The Growth Mindset](./GrowthMindset.md)
@@ -11,9 +11,19 @@
 
 #### Course 401 - Advanced Software Development
 
+* [Things I Want to know more about](401/more-about.md)
+
 * [Class 1 Notes - Intro to Big O Notation and Python](401/class-01.md)
 * [Class 2 Notes - Testing and Modules](401/class-02.md)
-* [Class 3 Notes - ](401/class-03.md)
+* [Class 3 Notes - FileIO & Exceptions](401/class-03.md)
+* [Class 4 Notes - ](401/class-04.md)
+* [Class 5 Notes - ](401/class-05.md)
+* [Class 6 Notes - ](401/class-06.md)
+* [Class 7 Notes - ](401/class-07.md)
+* [Class 8 Notes - ](401/class-08.md)
+* [Class 9 Notes - ](401/class-09.md)
+* [Class 10 Notes - ](401/class-10.md)
+* [Class 11 Notes - ](401/class-11.md)
 
 #### Course 301 - Intermediate Software Development
 
@@ -32,6 +42,8 @@
 * [Class 13 Notes - More CRUD](301/class-13.md)
 * [Class 14 Notes - Diversity & Inclusion in the Tech Industry](301/class-14.md)
 * [Class 15 Notes - Authentication](301/class-15.md)
+
+### [Things I want to know more about](ThingsIwanttoknowmoreabout.md)
 
 #### Course 201 - Foundations of Software Development
 

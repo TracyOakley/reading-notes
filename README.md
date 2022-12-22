@@ -16,7 +16,7 @@
 * [Class 1 Notes - Intro to Big O Notation and Python](401/class-01.md)
 * [Class 2 Notes - Testing and Modules](401/class-02.md)
 * [Class 3 Notes - FileIO & Exceptions](401/class-03.md)
-* [Class 4 Notes - ](401/class-04.md)
+* [Class 4 Notes - Classes & Objects](401/class-04.md)
 * [Class 5 Notes - ](401/class-05.md)
 * [Class 6 Notes - ](401/class-06.md)
 * [Class 7 Notes - ](401/class-07.md)

@@ -20,10 +20,18 @@
 * [Class 5 Notes - Linked Lists](401/class-05.md)
 * [Class 6 Notes - Ten Thousand 1](401/class-06.md)
 * [Class 7 Notes - Ten Thousand 2](401/class-07.md)
-* [Class 8 Notes - ](401/class-08.md)
+* [Class 8 Notes - Ten Thousand 3](401/class-08.md)
 * [Class 9 Notes - ](401/class-09.md)
 * [Class 10 Notes - ](401/class-10.md)
 * [Class 11 Notes - ](401/class-11.md)
+* [Class 12 Notes - ](401/class-12.md)
+* [Class 13 Notes - ](401/class-13.md)
+* [Class 14 Notes - ](401/class-14.md)
+* [Class 15 Notes - ](401/class-15.md)
+* [Class 16 Notes - ](401/class-16.md)
+* [Class 17 Notes - ](401/class-17.md)
+* [Class 18 Notes - ](401/class-18.md)
+* [Class 19 Notes - ](401/class-19.md)
 
 #### Course 301 - Intermediate Software Development
 

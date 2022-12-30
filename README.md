@@ -21,7 +21,7 @@
 * [Class 6 Notes - Ten Thousand 1](401/class-06.md)
 * [Class 7 Notes - Ten Thousand 2](401/class-07.md)
 * [Class 8 Notes - Ten Thousand 3](401/class-08.md)
-* [Class 9 Notes - ](401/class-09.md)
+* [Class 9 Notes - Stacks and Queues](401/class-09.md)
 * [Class 10 Notes - ](401/class-10.md)
 * [Class 11 Notes - ](401/class-11.md)
 * [Class 12 Notes - ](401/class-12.md)

@@ -24,7 +24,7 @@
 * [Class 9 Notes - Stacks and Queues](401/class-09.md)
 * [Class 10 Notes - Stacks and Queues](401/class-10.md)
 * [Class 11 Notes - Data Analysis](401/class-11.md)
-* [Class 12 Notes - ](401/class-12.md)
+* [Class 12 Notes - Pandas](401/class-12.md)
 * [Class 13 Notes - ](401/class-13.md)
 * [Class 14 Notes - ](401/class-14.md)
 * [Class 15 Notes - ](401/class-15.md)

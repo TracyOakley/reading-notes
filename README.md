@@ -26,7 +26,7 @@
 * [Class 11 Notes - Data Analysis](401/class-11.md)
 * [Class 12 Notes - Pandas](401/class-12.md)
 * [Class 13 Notes - Linear Regressions](401/class-13.md)
-* [Class 14 Notes - ](401/class-14.md)
+* [Class 14 Notes - Data Visualization](401/class-14.md)
 * [Class 15 Notes - ](401/class-15.md)
 * [Class 16 Notes - ](401/class-16.md)
 * [Class 17 Notes - ](401/class-17.md)

@@ -28,7 +28,7 @@
 * [Class 13 Notes - Linear Regressions](401/class-13.md)
 * [Class 14 Notes - Data Visualization](401/class-14.md)
 * [Class 15 Notes - Trees](401/class-15.md)
-* [Class 16 Notes - ](401/class-16.md)
+* [Class 16 Notes - Serverless Functions](401/class-16.md)
 * [Class 17 Notes - ](401/class-17.md)
 * [Class 18 Notes - ](401/class-18.md)
 * [Class 19 Notes - ](401/class-19.md)

@@ -31,7 +31,8 @@
 * [Class 16 Notes - Serverless Functions](401/class-16.md)
 * [Class 17 Notes - Web Scraping](401/class-17.md)
 * [Class 18 Notes - Cryptography](401/class-18.md)
-* [Class 19 Notes - ](401/class-19.md)
+* [Hashtables](401/hashtables.md)
+* [Graphs](401/graphs.md)
 
 #### Course 301 - Intermediate Software Development
 
